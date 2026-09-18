@@ -42,11 +42,13 @@ Não procure problemas artificialmente. Se algo estiver bom, diga que está bom.
 ---
 
 # 3. ANTES DE AUDITAR
-1. Leia `CLAUDE.md`.
-2. Entenda a estrutura do projeto.
-3. Identifique os arquivos responsáveis pela interface.
-4. Analise a implementação visual atual.
-5. Entenda o fluxo e objetivo da tela.
+
+1. Leia `design-system.md`.
+2. Leia `CLAUDE.md`.
+3. Entenda a estrutura do projeto.
+4. Identifique os arquivos responsáveis pela interface.
+5. Analise a implementação visual atual.
+6. Entenda o fluxo e objetivo da tela.
 
 Não faça recomendações desconectadas do contexto.
 
